@@ -1,0 +1,1 @@
+The adaptive sampling optimization code, which includes the trainset.in file, geo files, and other related materials, is provided in this zip, offering a broader range of Cu/H/O system configurations and their corresponding quantitative calculation results.
